@@ -11,9 +11,6 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 The experiments have been carried out with a group of 30 volunteers within an age bracket of 19-48 years. Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist. Using its embedded accelerometer and gyroscope, we captured 3-axial linear acceleration and 3-axial angular velocity at a constant rate of 50Hz. 
 
-The data are cleaned up and summarized to show an independent tidy data set with the average of each variable for each exercise activity and each subject.
-
-## Variables used in the tidy data set
 For each record in the dataset it is provided: 
 - Triaxial acceleration from the accelerometer (total acceleration) and the estimated body acceleration. 
 - Triaxial Angular velocity from the gyroscope. 
@@ -21,6 +18,9 @@ For each record in the dataset it is provided:
 - Its activity label. 
 - An identifier of the subject who carried out the experiment.
 
+The data are cleaned up and summarized to show an independent tidy data set with the average of each variable for each exercise activity and each subject.
+
+## Variables used in the tidy data set
 The following is a list of the variables in the tidy data set. 
   (Note: triaxial variables are denoted by (X,Y,Z))
 * subjectID
