@@ -67,7 +67,7 @@ The following is a list of the variables in the tidy data set.
 This data set was cleaned up in the following ways:
 1. The training and the test sets were merged into one data set.
 2. Extracts only the measurements on the mean and standard deviation for each measurement.
-3. Uses descriptive activity names to name the activities in the data set
+3. Uses descriptive activity names to name the activities in the data set:
   - changed variables starting with "t" to start with "time"
   - changed variables starting with "f" to start with "frequency"
   - removed "()" from variable names
