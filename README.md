@@ -1,14 +1,8 @@
 # Getting-Cleaning-Data-Project
 
-One of the most exciting areas in all of data science right now is wearable computing - see for example this article . Companies like Fitbit, Nike, and Jawbone Up are racing to develop the most advanced algorithms to attract new users. The data linked to from the course website represent data collected from the accelerometers from the Samsung Galaxy S smartphone. A full description is available at the site where the data was obtained:
+One of the most exciting areas in all of data science right now is wearable computing - see for example this article . Companies like Fitbit, Nike, and Jawbone Up are racing to develop the most advanced algorithms to attract new users. The data linked to from the course website represent data collected from the accelerometers from the Samsung Galaxy S smartphone. 
 
-http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
-
-Here are the data for the project:
-
-https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
-
-A code book is provided which describes the variables, the data, and transformations made to clean up the data. 
+A code book is provided which further describes the study design, variables, and transformations made to clean up the data. 
 
 The R script called run_analysis.R does the following:
 
@@ -18,3 +12,4 @@ The R script called run_analysis.R does the following:
 * Appropriately labels the data set with descriptive variable names.
 * Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
+The final tidy data set is provided in a text file called tidy_data.txt.
